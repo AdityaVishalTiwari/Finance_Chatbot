@@ -1,8 +1,8 @@
 # Financial_Chatbot
 
-## BCG GenAI Job Simulation on Forage - April 2024
+## BCG Job Simulation on Forage - April 2024
 
-##Overview
+## Overview
 This repository primarily focuses on showcasing expertise in data extraction and financial analysis, followed by the development of a financial chatbot. The repository demonstrates proficiency in handling and analyzing financial data extracted from 10-K and 10-Q reports. Subsequently, it utilizes this data to develop a rule-based logic AI-driven chatbot. The chatbot is designed to provide user-friendly financial insights and analysis based on integrated financial data.
 
 ## Key Achievements
