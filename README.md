@@ -1,4 +1,4 @@
-# Financial_Chatbot
+# Finance_Chatbot
 
 ## BCG Job Simulation on Forage - April 2024
 
